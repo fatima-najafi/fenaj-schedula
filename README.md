@@ -4,7 +4,7 @@
   <h1>📖 Fenaj Schedula </h>
 </div>
 
-The `Fenaj Schedula` project is a web application developed using the React JavaScript library. It serves as the frontend part of a web application and is responsible for providing a user interface and interacting with the backend to display data and user interactions.. 📚
+The `Fenaj Schedula` project is a web application developed using the React JavaScript library. It serves as the frontend part of a web application and is responsible for providing a user interface and interacting with the backend to display data and user interactions... 📚
 
 ## 🛠 Built With <a name="built-with"></a>
 
